@@ -7,6 +7,10 @@
   height: 80px;
 }
 
+#num {
+  list-style-type: decimal;
+}
+
 .App-header {
   background-color: #222;
   height: 150px;
