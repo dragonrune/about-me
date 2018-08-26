@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import NavSite from './NavSite'
 import WorkHistoryItem from './WorkHistoryItem'
+import './WorkHistoryPage.css'
 
 class WorkHistoryPage extends Component {
   render() {
